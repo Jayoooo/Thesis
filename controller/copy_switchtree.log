@@ -1,0 +1,7 @@
+09:39:05 - INFO - Simple controller
+09:39:05 - INFO - Subscribe attempt #1
+09:39:05 - INFO - Subscribe response received 0
+09:39:05 - INFO - Connected to BFRT server 127.0.0.1:50052
+09:39:05 - INFO - Binding with p4_name planter
+09:39:05 - INFO - Binding with p4_name planter successful!!
+09:39:05 - INFO - Received planter on GetForwarding on client 0, device 0
