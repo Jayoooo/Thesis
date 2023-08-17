@@ -36,8 +36,8 @@
 * Example
     > Assume `UNSW-NB15_1.csv` is in `~/`
     ```
-    python3 main.py -p ~/ -d 5 10 15 20 25 30 -n 5 -f DM -S ML
-    python3 main.py -n 1 -f EC -S Entry
+    python3 main.py -p UNSW-NB15_1.csv -a decisiontree -d 5 -f DM -S ML
+    python3 main.py -p UNSW-NB15_1.csv -a randomforest -t 5 -f EC -S Entry
     ```
     
 ## P4 Usage
